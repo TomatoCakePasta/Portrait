@@ -13,7 +13,7 @@ int imgs = 1;  // 使用画像の数
 
 float cnt = 0;
 
-float tileSize = 640 / tiles;
+float tileSize = 640.0 / tiles;
 
 boolean flag;
 
